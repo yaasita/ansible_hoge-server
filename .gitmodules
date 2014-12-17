@@ -1,0 +1,6 @@
+[submodule "roles/mysql"]
+	path = roles/mysql
+	url = https://github.com/yaasita/ansible_role_mysql.git
+[submodule "roles/rbenv"]
+	path = roles/rbenv
+	url = https://github.com/yaasita/ansible_role_rbenv.git
