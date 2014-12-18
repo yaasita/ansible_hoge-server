@@ -1,0 +1,9 @@
+
+# mysql
+mysql_dbname: hogedb
+mysql_dbuser: hogedb
+mysql_dbpass: hogedb
+
+# rbenv
+rbenv_user: hoge-user
+# versionはroleデフォルトのものを使う

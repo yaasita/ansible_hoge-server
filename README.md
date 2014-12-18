@@ -1,4 +1,8 @@
 ansible_hoge-server
 ===================
 
-hoge-serverのセットアップ
+hoge-serverのセットアップ例
+
+    git clone https://github.com/yaasita/ansible_hoge-server.git
+    cd ansible_hoge-server
+    git submodule update --init

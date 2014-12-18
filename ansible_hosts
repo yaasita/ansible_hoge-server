@@ -1,0 +1,2 @@
+[hoge-server]
+hoge-server ansible_ssh_user='yamasita' ansible_sudo_pass='hoge1234'

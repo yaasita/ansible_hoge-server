@@ -1,0 +1,9 @@
+---
+- name: hoge-serverのセットアップ
+  hosts: hoge-server
+  sudo: yes
+
+  roles:
+    - hoge
+    - mysql
+    - rbenv

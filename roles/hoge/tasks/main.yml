@@ -1,0 +1,4 @@
+---
+
+- name: hogeユーザの作成
+  user: name=hoge-user shell=/bin/bash password=hoge1234 append=yes update_password=on_create
