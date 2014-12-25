@@ -1,4 +1,4 @@
-ansible_hoge-server
+ansible_hoge-server sample
 ===================
 
 hoge-serverのセットアップ例
